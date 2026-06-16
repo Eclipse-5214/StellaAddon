@@ -6,7 +6,6 @@ import net.fabricmc.api.ClientModInitializer
  * The primary client-side entry point for the Stella Addon, loaded by the Fabric Loader.
  */
 object StellaAddon : ClientModInitializer {
-
     /**
      * The unique programmatic identifier namespace for this addon.
      * Used for getting assets.
